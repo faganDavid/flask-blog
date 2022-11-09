@@ -1,0 +1,30 @@
+.bg-image {
+    position: relative;
+    margin-bottom: 3rem;
+    padding-top: calc(8rem + 57px);
+    padding-bottom: 8rem;
+    background: no-repeat center center;
+    background-color: #6c757d;
+    background-size: cover;
+    background-attachment: scroll;
+    height: 25%;
+}
+
+.img {
+    object-fit: cover;
+    opacity: 0.4;
+}
+
+.site-heading {
+    color: #313639;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.subheading {
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.1;
+    display: block;
+    margin-top: 0.625rem;
+}

@@ -1,0 +1,1 @@
+bg-image.style.filter="grayscale(100%)"
